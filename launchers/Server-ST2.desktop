@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Server-ST2
+Type=Application
+Comment=Server-ST2 by BlackGhost
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Server-Scan;python Server-ST2.py;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Server-Scan
+GenericName=Server-ST2
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=wp j00m creative contact form shell upload
+Type=Application
+Comment=wp_j00m_creative_contact_form_shell_upload
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Scan_WordPress;python wp_j00m_creative_contact_form_shell_upload.py;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Scan_WordPress
+GenericName=wp_j00m_creative_contact_form_shell_upload
+

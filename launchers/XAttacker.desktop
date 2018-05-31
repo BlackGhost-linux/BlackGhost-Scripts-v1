@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=XAttacker
+Type=Application
+Comment=XAttacker
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Shell_CP_finder/XAttacker;perl XAttacker.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Shell_CP_finder
+GenericName=XAttacker
+

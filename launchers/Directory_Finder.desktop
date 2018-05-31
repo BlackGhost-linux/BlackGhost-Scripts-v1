@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Directory Finder
+Type=Application
+Comment=Directory Finder
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Scan_Touls/Directory Finder;wine Directory Finder.exe;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Directory-Finder
+GenericName=Directory-Finder
+

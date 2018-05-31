@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=MACchanger
+Type=Application
+Comment=MACchanger by BlackGhost
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost;./MACchanger.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=wireless
+GenericName=MACchanger
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=GrabTheCMS
+Type=Application
+Comment=GrabTheCMS
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Shell_CP_finder;perl GrabTheCMS.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Shell_CP_finder
+GenericName=GrabTheCMS
+

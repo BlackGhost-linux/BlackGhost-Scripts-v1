@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=DW Admin and Login Finder v1.1
+Type=Application
+Comment=DW_Admin_and_Login_Finder_v1.1
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Scan_Touls/DW_Admin_and_Login_Finder_v1.1;wine DW_Admin_and_Login_Finder_v1.1.exe;${SHELL:-bash}"
+Icon=elisa.png
+Categories=DW_Admin_and_Login_Finder_v1.1
+GenericName=DW_Admin_and_Login_Finder_v1.1
+

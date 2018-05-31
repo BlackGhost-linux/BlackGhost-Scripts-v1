@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=DW JCE 3xploiter
+Type=Application
+Comment=JCE_3xploiter
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Scan_Touls/JCE_3xploiter;wine JCE_3xploiter.exe;${SHELL:-bash}"
+Icon=elisa.png
+Categories=JCE_3xploiter
+GenericName=JCE_3xploiter
+

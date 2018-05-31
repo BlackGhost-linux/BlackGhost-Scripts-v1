@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Admin CP Finder
+Type=Application
+Comment=admin_CP_finder
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Admin;perl admin.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Admin
+GenericName=admin_CP_finder
+

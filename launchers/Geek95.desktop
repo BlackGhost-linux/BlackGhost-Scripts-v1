@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Geek95
+Type=Application
+Comment=Geek95
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost/Wifi/Geek95;./Geek95.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=Wifi;Geek95;wireless
+GenericName=Geek95
+

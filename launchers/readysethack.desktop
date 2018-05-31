@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=readysethack
+Type=Application
+Comment=readysethack by BlackGhost
+Terminal=true
+Exec=sh -c "cd /opt/BlackGhost;./readysethack.py;${SHELL:-bash}"
+Icon=elisa.png
+Categories=wireless
+GenericName=readysethack
+
